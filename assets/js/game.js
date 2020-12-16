@@ -75,3 +75,7 @@ for(var i = 0; i < enemyNames.length; i++) {
 }
 // run fight function to start game
 //fight();
+
+// bottom comment into the one above
+//for(var i = 0; i < enemyNames.length; i++) {
+ // console.log(enemyNames[i]);}
